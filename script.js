@@ -60,4 +60,6 @@ confetti.render();
   p.style.left = "50%";
   p.style.transform = "translate(-50%, -50%)";
   document.body.appendChild(p);
+ const audio = new Audio("https://www.fesliyanstudios.com/play-mp3/387");
+  audio.play();
 });
