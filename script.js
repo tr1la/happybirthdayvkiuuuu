@@ -34,9 +34,11 @@ noButton.style.display = "none";
 
 var gif = document.getElementById("gif");
 var header = document.getElementById("main");
+var audio2 = document.getElementById("audio1");
 header.style.display = "none";
 gif.style.display = "none";
-
+audio2.style.display = "none";
+  
 //change the style of the confetti canvas
 confettiElement.style.position = "absolute";
 confettiElement.style.top = "0";
