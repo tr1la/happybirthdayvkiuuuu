@@ -44,8 +44,9 @@ main {
 }
 
 .audio-container {
-  display: flex
+  max-width: 100%;
   justify-content: center;
+  height: auto;
 }
 
 .button-container {
