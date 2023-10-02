@@ -22,7 +22,6 @@ noButton.addEventListener("mouseover", () => {
 
 // Get the "Yes" button element
 const yesButton = document.getElementById("yes-button");
-const audio = new Audio("https://ytaud.io/play/D3BCfZqNasM");
 
 // Add a click event listener to create confetti
 yesButton.addEventListener("click", () => {
@@ -61,5 +60,4 @@ confetti.render();
   p.style.left = "50%";
   p.style.transform = "translate(-50%, -50%)";
   document.body.appendChild(p);
-  audio.play();
 });
