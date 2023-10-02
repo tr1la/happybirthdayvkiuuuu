@@ -143,6 +143,9 @@ button:hover {
     /* margin-top: 20px; */
     margin-bottom: 0.5rem;
   }
+  .audio-container {
+    margin-bottom: 0.5rem;
+  }
   button {
     padding: 0.5rem 1rem;
     margin: 0.5rem;
