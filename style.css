@@ -43,12 +43,6 @@ main {
   
 }
 
-.audio-container {
-  max-width: 100%;
-  justify-content: center;
-  height: auto;
-}
-
 .button-container {
   display: flex;
   justify-content: center;
@@ -141,9 +135,6 @@ button:hover {
   }
   .gif-container {
     /* margin-top: 20px; */
-    margin-bottom: 0.5rem;
-  }
-  .audio-container {
     margin-bottom: 0.5rem;
   }
   button {
